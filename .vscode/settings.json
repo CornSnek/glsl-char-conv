@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel":0,
+    "terminal.integrated.shell.windows": "C:/Windows/System32/cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["-i"],
+    "terminal.integrated.env.windows": {
+		"JAVA_HOME":"C:/Program Files/Java/jdk-15.0.1/",
+        "PATH": "C:/Windows/System32/;C:/Windows/;C:/Windows/System32/Wbem;C:/Windows/System32/WindowsPowerShell/v1.0/;C:/Program Files/Java/jdk-15.0.1/bin;C:/Program Files/Common Files/Oracle/Java/javapath;C:/Program Files (x86)/Common Files/Oracle/Java/javapath;C:/Program Files (x86)/GnuWin32/bin;"
+    },
+}
